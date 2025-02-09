@@ -16,11 +16,11 @@ This script automates network or node operations for Blockless Bless Network.
 
 1. Clone the repository to your local machine:
    ```bash
-   git clone https://github.com/recitativonika/blockless-bless-network-bot.git
+   git clone https://github.com/Mittyadav/Blessnetwork.git
    ```
 2. Navigate to the project directory:
    ```bash
-   cd blockless-bless-network-bot
+   cd Blessnetwork
    ```
 4. Install the necessary dependencies:
    ```bash
@@ -90,4 +90,4 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 This script only for testing purpose, using this script might violates ToS and may get your account permanently banned.
 
 My reff code if you want to use :) : 
-https://bless.network/dashboard?ref=84PLBS
+[https://bless.network/dashboard?ref=](https://bless.network/dashboard?ref=3FAY0E)
